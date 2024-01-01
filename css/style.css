@@ -23,7 +23,7 @@ nav {
     position: relative;
 }
 .navbar-items {
-       position: relative;
+       position: abosolute;
     top: 35px;
     right: 0;
     height: 90px;
