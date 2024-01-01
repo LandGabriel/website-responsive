@@ -33,6 +33,7 @@ nav {
     
 }
 .navbar-items li {
+    position: relative;
 text-transform: uppercase;
 display: inline-block;
 margin-left: 25px;
