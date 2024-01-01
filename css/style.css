@@ -23,8 +23,6 @@ nav {
     position: relative;
 }
 .navbar-items {
-    
-    position: fixed;
     top: 35px;
     right: 0;
     height: 90px;
