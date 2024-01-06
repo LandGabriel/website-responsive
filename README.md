@@ -1,10 +1,10 @@
-![Logo do projeto](https://raw.githubusercontent.com/LandGabriel/website-responsive/main/img/site-responsive.png)
+x![Logo do projeto](https://raw.githubusercontent.com/LandGabriel/website-responsive/main/img/site-responsive.png)
 
 # Formulário de cadastro reponsivo
 :mag_right: [Veja o projeto](https://landgabriel.github.io/website-responsive/)
 ## 🔥 Introdução
 
-Web site responsivo no formato de vendas ou assinatura para clientes
+Web site responsivo no formato de vendas e assinaturas para clientes
 
 ### 🔨 Guia de instrução
 
