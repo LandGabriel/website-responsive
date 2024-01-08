@@ -8,7 +8,7 @@ Web site responsivo no formato de vendas e assinaturas para clientes
 
 ### 🔨 Guia de instrução
 
-Botões ilustrativos para web site de vendas de assinaturas.
+Botões ilustrativos para web site para vendas de assinaturas de planos.
 
 ## 📦 Tecnologias usadas:
 
