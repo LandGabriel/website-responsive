@@ -156,8 +156,6 @@ color:rgb(108, 26, 26);
 .services-container p {
   line-height: 21px;
 }
-
-
 .pricing-container {
     padding-top: 100px;
   padding-bottom: 9rem;
@@ -197,8 +195,6 @@ color:rgb(108, 26, 26);
   line-height: 50px;
   background-color: #e8e9ea;
   color: #000000;
-  
-
 }
 
 .plan .price {
@@ -236,7 +232,6 @@ color:rgb(108, 26, 26);
 .plan .recommended {
   background-color: #de1811;
 }
-
 
 .searchdomain-container {
   background-color: #34454e;
