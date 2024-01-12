@@ -1,6 +1,6 @@
 x![Logo do projeto](https://raw.githubusercontent.com/LandGabriel/website-responsive/main/img/site-responsive.png)
 
-# Formulário de cadastro reponsivo
+# Web site reponsivo para planos e assinaturas
 :mag_right: [Veja o projeto](https://landgabriel.github.io/website-responsive/)
 ## 🔥 Introdução
 
