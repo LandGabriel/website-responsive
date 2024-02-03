@@ -334,6 +334,9 @@ footer {
   .plans-container {
     width: 95%;
   }
+      .banner p {
+        display: none; /* Oculta o parágrafo dentro da div com a classe banner */
+    }
 
   .plan {
     margin: 0 5px;
@@ -344,6 +347,9 @@ footer {
   .main-banner p {
     padding: 0 6rem;
   }
+      .banner p {
+        display: none; /* Oculta o parágrafo dentro da div com a classe banner */
+    }
 
   .searchdomain-container {
     padding: 2rem 4rem;
@@ -356,7 +362,10 @@ footer {
   body {
     overflow-x: hidden;
   }
-
+  .banner p {
+        display: none; /* Oculta o parágrafo dentro da div com a classe banner */
+    }
+    
   .navbar-items li {
     font-size: 12px;
     margin-left: 10px;
