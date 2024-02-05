@@ -335,7 +335,7 @@ footer {
     width: 95%;
   }
       .banner p {
-        display: none; /* Oculta o parágrafo dentro da div com a classe banner */
+        display: none;
     }
 
   .plan {
@@ -361,7 +361,7 @@ footer {
     overflow-x: hidden;
   }
   .banner p {
-        display: none; /* Oculta o parágrafo dentro da div com a classe banner */
+        display: none;
     }
     
   .navbar-items li {
